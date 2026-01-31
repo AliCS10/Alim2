@@ -1,0 +1,7 @@
+{
+  "name": "Basar | بصر",
+  "description": "منصة تعليمية مبتكرة لتحويل المحاضرات الجامعية إلى بودكاست مسموع مع تلخيص ذكي وتقسيم فصول.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
